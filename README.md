@@ -13,4 +13,4 @@ designer - programmer - artist
 #### contacts
 Mail: sontacred@gmail.com
 phone: 07.68.47.09.20
-[[test1]]
+
