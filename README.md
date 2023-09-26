@@ -12,4 +12,5 @@ designer - programmer - artist
 
 ### contacts
   Mail: sontacred@gmail.com
+	or: sontacred@protonmail.com
 
