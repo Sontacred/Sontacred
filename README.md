@@ -4,7 +4,7 @@
 artist - designer - programmer
 
 ```
-il a young French guy sharing my
+il a young French artist sharing my
 art and Ideas, I'm also leaning
 some programming languages to
 create my own website or apps
