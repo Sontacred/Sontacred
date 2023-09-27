@@ -4,6 +4,7 @@
 artist - designer - programmer
 
 ```
+
 I'm a young French artist sharing
 my art and Ideas:
   (drawing, digital art, design) 
