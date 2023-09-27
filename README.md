@@ -4,8 +4,8 @@
 artist - designer - programmer
 
 ```
-il a young French artist sharing
-my art and Ideas, I'm also leaning
+I'm a young French artist sharing
+my art and Ideas, i'm also leaning
 some programming languages to
 create my own website or apps
 ``` 
