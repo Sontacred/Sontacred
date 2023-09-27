@@ -1,9 +1,7 @@
 # Sontacred
 
 ```
-- designer 
-- programmer 
-- artist
+artist - designer - programmer
 ```
 
 ### my links 
