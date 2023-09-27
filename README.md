@@ -2,9 +2,9 @@
 
 ```
 il a young French guy sharing my
- art and Ideas, I'm also leaning
- some programming languages to
- create my own website or apps
+art and Ideas, I'm also leaning
+some programming languages to
+create my own website or apps
 ```
 
 artist - designer - programmer 
