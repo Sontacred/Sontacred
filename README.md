@@ -7,7 +7,7 @@ some programming languages to
 create my own website or apps
 ```
 
-artist - designer - programmer 
+#artist - designer - programmer 
 
 ### my medias
 - [reddit](https://www.reddit.com/u/Legochems)
