@@ -7,7 +7,8 @@ artist - designer - programmer
 I'm a young French artist sharing
 my art and Ideas:
   (drawing, digital art, design) 
-i'm also leaning some programming languages to create my own apps
+i'm also leaning some programming languages
+to create my own apps
   (html, css, python) 
 ``` 
 
