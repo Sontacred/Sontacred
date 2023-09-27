@@ -19,6 +19,6 @@ languages to create my own apps
 - [instagram](https://www.instagram.com/sontacred/)
 
 ### contacts
-  Mail: sontacred@gmail.com
-	or: sontacred@protonmail.com
+Mail: sontacred@gmail.com
+or: sontacred@protonmail.com
 
