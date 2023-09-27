@@ -1,10 +1,12 @@
 # Sontacred
 
 ```
-artist - designer - programmer
+il a young French guy sharing my art and Ideas, I'm also leaning some programming languages to create my own website or apps
 ```
 
-### my links 
+artist - designer - programmer 
+
+### my medias
 - [reddit](https://www.reddit.com/u/Legochems)
 - [deviantart](https://www.deviantart.com/sontacred)
 - [threads](https://www.deviantart.com/sontacred) 
