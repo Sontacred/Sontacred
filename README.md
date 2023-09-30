@@ -3,7 +3,6 @@
 ## <font style="color:#FF5757">artist - designer - beginner developer</font>
 
 I'm a young French artist and designer sharing my art and Ideas: (drawing, digital art, design)
-  
 I’m currently learning programming languages like 
 **python, java script, type script**  
   
