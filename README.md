@@ -6,7 +6,7 @@ I'm a young French artist and designer sharing my art and Ideas: (drawing, digit
 I’m currently learning programming languages like 
 **python, java script, type script**  
   
-All of my incoming projects are available on my [portfolio](https://sontacred.github.io/Sontacred.portfolio.io/index.html)  
+All of my incoming projects are available on my [webpage](https://sontacred.github.io/Sontacred.portfolio.io/index.html)  
 
 ## <font style="color:#FF5757">my medias</font>
 - [reddit](https://www.reddit.com/u/Legochems)
