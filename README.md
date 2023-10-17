@@ -14,7 +14,7 @@ Mail: sontacred@gmail.com
 or: sontacred@protonmail.com
 or using me social medias
 
-## 757">my medias
+## my medias
 - [reddit](https://www.reddit.com/u/Legochems)
 - [deviantart](https://www.deviantart.com/sontacred)
 - [threads](https://www.deviantart.com/sontacred) 
