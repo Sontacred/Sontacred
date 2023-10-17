@@ -1,6 +1,6 @@
 # Sontacred
 
-## <font style="color:#FF5757">artist - designer - beginner developer</font>
+## artist - designer - beginner developer
 
 - I'm a young French artist and designer sharing my art and Ideas:
 **drawing, digital art, design** 
@@ -9,12 +9,12 @@
   
 All of my incoming projects are available on my [webpage](https://sontacred.github.io/Sontacred.portfolio.io/index.html)  
 
-## <font style="color:#FF5757">contact me</font>
+## contact me
 Mail: sontacred@gmail.com
 or: sontacred@protonmail.com
 or using me social medias
 
-## <font style="color:#FF5757">my medias</font>
+## 757">my medias
 - [reddit](https://www.reddit.com/u/Legochems)
 - [deviantart](https://www.deviantart.com/sontacred)
 - [threads](https://www.deviantart.com/sontacred) 
