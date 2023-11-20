@@ -7,7 +7,7 @@
 - I’m currently learning programming languages like 
 **python, java script, type script**  
   
-All of my incoming projects are available on my [webpage](https://sontacred.github.io/Sontacred.portfolio2.io/index.html)  
+All of my incoming projects are available on my [webpage]([https://sontacred.github.io/Sontacred.portfolio2.io/index.html](https://sontacred.github.io/sontacred.portfolio2.io/))  
 
 ## my medias
 - [reddit](https://www.reddit.com/u/Legochems)
