@@ -17,7 +17,6 @@ All of my incoming projects are available on my [webpage](https://sontacred.gith
 
 ## contact me
 Mail: sontacred@gmail.com
-or: sontacred@protonmail.com
 or using me social medias
 
   
