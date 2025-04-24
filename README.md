@@ -6,21 +6,15 @@ I'm a creative and tech-savvy student currently pursuing a **two-year degree in 
 🎨 **Design** – UI/UX, branding, concept design  
 💻 **Development** – Front-end & back-end web development, creative coding
 
----
-
 ## 💡 Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript, PHP, SQL  
 - **Tools & Frameworks:** Git, WAMP, MySQL, Tailwind, Figma  
 - **Currently learning:** Java
 
----
-
 ## 🌐 Website
 
 🔗 [IS.online](https://your-website.com)
-
----
 
 ## 📬 Contact Me
 
