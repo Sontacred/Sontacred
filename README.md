@@ -1,24 +1,34 @@
-# Sontacred
+# 👋 Hi there! I'm [Your Name]
 
-## artist - designer - beginner developer
+I'm a creative and tech-savvy student currently pursuing a **two-year degree in IT Services for Organizations (BTS SIO)** in France. I’m passionate about:
 
-- I'm a young French artist and designer sharing my art and Ideas:
-**drawing, digital art, design** 
-- I’m currently learning programming languages like 
-**python, java script, type script**  
-  
-All of my incoming projects are available on my [webpage](https://sontacred.github.io/IS.online/)
+🎨 **Art** – Digital painting, illustration, visual storytelling  
+🎨 **Design** – UI/UX, branding, concept design  
+💻 **Development** – Front-end & back-end web development, creative coding
 
-## my medias
-- [reddit](https://www.reddit.com/u/Legochems)
-- [deviantart](https://www.deviantart.com/sontacred)
-- [threads](https://www.deviantart.com/sontacred) 
-- [instagram](https://www.instagram.com/sontacred/)
+---
 
-## contact me
-Mail: sontacred@gmail.com
-or using my social medias
+## 💡 Skills & Technologies
 
-  
-<h2 align="left">Languages and Tools:</h2>  
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
+- **Languages:** HTML, CSS, JavaScript, PHP, SQL  
+- **Tools & Frameworks:** Git, WAMP, MySQL, Bootstrap, Tailwind, Figma  
+- **Currently learning:** React, Node.js
+
+---
+
+## 🌐 Website
+
+🔗 [your-website.com](https://your-website.com)
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle) *(optional)*
+
+---
+
+> “Art and code are just two ways to create worlds.”  
+> — Me, probably ✨
