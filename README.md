@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Sontacred
 
 I'm a creative and tech-savvy student currently pursuing a **two-year degree in IT Services for Organizations (BTS SIO)** in France. I’m passionate about:
 
@@ -11,20 +11,20 @@ I'm a creative and tech-savvy student currently pursuing a **two-year degree in 
 ## 💡 Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript, PHP, SQL  
-- **Tools & Frameworks:** Git, WAMP, MySQL, Bootstrap, Tailwind, Figma  
-- **Currently learning:** React, Node.js
+- **Tools & Frameworks:** Git, WAMP, MySQL, Tailwind, Figma  
+- **Currently learning:** Java
 
 ---
 
 ## 🌐 Website
 
-🔗 [your-website.com](https://your-website.com)
+🔗 [IS.online](https://your-website.com)
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+- 📧 Email: [sontacred@gmail.com](mailto:your.email@example.com)  
 - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
 - 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle) *(optional)*
 
