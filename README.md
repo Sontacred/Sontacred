@@ -2,7 +2,7 @@
 
 I'm a creative and tech-savvy student currently pursuing a **two-year degree in IT Services for Organizations (BTS SIO)** in France. I’m passionate about:
 
-🎨 **Art** – Digital painting, illustration, visual storytelling  
+🎨 **Art** – Digital painting, illustration, 3D modelling, pixel art  
 🎨 **Design** – UI/UX, branding, concept design  
 💻 **Development** – Front-end & back-end web development, creative coding
 
