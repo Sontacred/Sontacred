@@ -23,4 +23,4 @@ I'm a creative and tech-savvy student currently pursuing a **two-year degree in 
 
 ---
 
-> — / / / / / /
+/ / / /\/ /
