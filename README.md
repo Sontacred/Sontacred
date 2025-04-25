@@ -8,21 +8,19 @@ I'm a creative and tech-savvy student currently pursuing a **two-year degree in 
 
 ## 💡 Skills & Technologies
 
-- **Languages:** HTML, CSS, JavaScript, PHP, SQL  
+- **Languages:** HTML (10/10), CSS (9/10), JavaScript (5/10), PHP (6/10), SQL (6/10), Python (7/10)
 - **Tools & Frameworks:** Git, WAMP, MySQL, Tailwind, Figma  
 - **Currently learning:** Java
 
-## 🌐 Website
+## 🌐 Websites
 
-🔗 [IS.online](https://your-website.com)
+🔗 website for personnal work : [IS.online](https://your-website.com)
+🔗 website for my studies (fr) : [Portfolio](https://sontacred.github.io/web-SIO/index.html)
 
 ## 📬 Contact Me
 
 - 📧 Email: [sontacred@gmail.com](mailto:your.email@example.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- 🐦 Twitter/X: [@yourhandle](https://twitter.com/yourhandle) *(optional)*
 
 ---
 
-> “Art and code are just two ways to create worlds.”  
-> — Me, probably ✨
+> — / / / /\/ /
