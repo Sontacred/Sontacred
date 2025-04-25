@@ -14,7 +14,7 @@ I'm a creative and tech-savvy student currently pursuing a **two-year degree in 
 
 ## 🌐 Websites
 
-- 🔗 website for personnal work : [IS.online](https://your-website.com)
+- 🔗 website for personnal work : [IS.online](https://sontacred.github.io/IS.online/)
 - 🔗 website for my studies (fr) : [Portfolio](https://sontacred.github.io/web-SIO/index.html)
 
 ## 📬 Contact Me
