@@ -8,7 +8,7 @@ I'm a creative and tech-savvy student currently pursuing a **two-year degree in 
 
 ## 💡 Skills & Technologies
 
-- **Languages :** HTML (10/10), CSS (9/10), JavaScript (5/10), PHP (6/10), SQL (7/10), Python (7/10)
+- **Languages :** HTML (10/10), CSS (9/10), JavaScript (5/10), PHP (6/10), SQL (8/10), Python (8/10)
 - **Tools & Frameworks :** Git, WAMP, MySQL, Figma  
 - **Currently learning :** Java
 
